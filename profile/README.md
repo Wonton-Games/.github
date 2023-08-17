@@ -1,10 +1,10 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://linktr.ee/raphael065/"><img src="https://i.ibb.co/j86NHnn/Bild-2023-08-17-202610320.png" width="700" alt="WontonGames" /></a>
+		<a href="https://linktr.ee/raphael065/"><img src="https://i.ibb.co/8jfvy6D/Screenshot-2023-08-17-213344.png" width="700" alt="WontonGames" /></a>
 	</p>
 </div>
-
+https://i.ibb.co/j86NHnn/Bild-2023-08-17-202610320.png
 ## Who We Are
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Raphael065/)](https://github.com/Raphael065Defcon27/) 
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Raphael065)](https://www.hackerrank.com/Raphael065)
